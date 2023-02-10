@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flash-card/static/css/main.9b9edc4d.css",
+    "main.js": "/flash-card/static/js/main.003abdff.js",
+    "static/media/Vazir.ttf": "/flash-card/static/media/Vazir.0a65b51bbb24279d1ca4.ttf",
+    "index.html": "/flash-card/index.html",
+    "main.9b9edc4d.css.map": "/flash-card/static/css/main.9b9edc4d.css.map",
+    "main.003abdff.js.map": "/flash-card/static/js/main.003abdff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9edc4d.css",
+    "static/js/main.003abdff.js"
+  ]
+}
